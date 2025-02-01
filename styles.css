@@ -1,0 +1,26 @@
+* {
+    color: white;
+    font-family: "Roboto", serif;
+}
+
+button {
+    color: rebeccapurple;
+    font-size: 50px;
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+  }
+  
+  .gameContainer {
+    text-align: center; /* Center the text inside the container */
+  }
+  
+  .computer-answer {
+    font-size: 50px;
+}
