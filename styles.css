@@ -6,6 +6,8 @@
 button {
     color: rebeccapurple;
     font-size: 50px;
+    margin: 5px;
+    border-radius: 15px;
 }
 
 body, html {
@@ -19,8 +21,12 @@ body, html {
   
   .gameContainer {
     text-align: center; /* Center the text inside the container */
+    border: 5px solid white;
+    border-radius: 15px;
+    max-width: 90%;
   }
   
   .computer-answer {
     font-size: 50px;
+    font-weight: 200px;
 }
